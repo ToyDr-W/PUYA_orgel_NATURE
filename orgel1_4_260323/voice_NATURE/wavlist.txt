@@ -1,0 +1,13 @@
+UGUISU#.wav
+CUCKOO#.wav
+CHIRP#.wav
+DOG#.wav
+HOWL#.wav
+COCK#.wav
+MOO#.wav
+SHEEP#.Wav
+GRUNTING#.wav
+BLUBBER#.wav
+MEOW#.wav
+TIGER#.wav
+

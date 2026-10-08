@@ -1,0 +1,12 @@
+	vos_mac(0x000000,0x01a904,16000)	//1:UGUISU#.wav
+	vos_mac(0x01a904,0x0342d8,16000)	//2:CUCKOO#.wav
+	vos_mac(0x04ebdc,0x0118f0,16000)	//3:CHIRP#.wav
+	vos_mac(0x0604cc,0x024c68,16000)	//4:DOG#.wav
+	vos_mac(0x085134,0x015c38,16000)	//5:HOWL#.wav
+	vos_mac(0x09ad6c,0x00aa20,16000)	//6:COCK#.wav
+	vos_mac(0x0a578c,0x005bb0,16000)	//7:MOO#.wav
+	vos_mac(0x0ab33c,0x00af50,16000)	//8:SHEEP#.Wav
+	vos_mac(0x0b628c,0x00f7e8,16000)	//9:GRUNTING#.wav
+	vos_mac(0x0c5a74,0x010808,16000)	//10:BLUBBER#.wav
+	vos_mac(0x0d627c,0x01a690,16000)	//11:MEOW#.wav
+	vos_mac(0x0f090c,0x011120,16000)	//12:TIGER#.wav
