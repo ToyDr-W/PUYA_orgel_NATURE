@@ -17,7 +17,7 @@
 ## 📖 詳しい解説・回路図（Wikiページ）
 応用事例の詳細は [おもちゃ修理「電子カルテ」ブログ](https://blog.canpan.info/charts/archive/497) を、
 ファイル構成、回路図やCVDチューニングなどの詳細は専用Wikiをご参照ください。
-### 👉 [詳しい解説・回路図（Wikiページ）](https://github.com/ToyDr-W/PUYA_orgel_NATURE/wiki)
+### 👉 [詳しい解説・回路図（Wikiページ）](https://github.com/ToyDr-W/PUYA_orgel_NATURE/wiki/PUYA%E9%9B%BB%E5%AD%90%E3%82%AA%E3%83%AB%E3%82%B4%E3%83%BC%E3%83%AB%E8%A7%A3%E8%AA%AC%E3%83%BB%E5%9B%9E%E8%B7%AF%E5%9B%B3)
 
 ---
 
