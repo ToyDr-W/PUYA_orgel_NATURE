@@ -13,4 +13,3 @@
 回路図やCVDチューニング、コスト詳細は専用Wikiをご参照ください。
 👉 [PUYA電子オルゴール「森の動物たち」Wiki](https://github.com)
 
-[ （参照）ＰＵＹＡ電子オルゴールの紹介は、コチラ ](https://blog.canpan.info/charts/archive/497)
