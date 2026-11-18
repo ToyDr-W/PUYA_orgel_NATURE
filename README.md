@@ -27,12 +27,12 @@
 * **次世代への承継に向けた一歩**：新人ドクターを迎え、我流のやり方を見を見直す中で「EasyEDA」に出会いました。一から勉強を開始し、部品ライブラリから `PY32F002A` を発見。基板レイアウトの練習を兼ねてオリジナル基板の発注（JLCPCB等への一気通貫での発注）までを体験・実現しました。
 * **これからの目標**：今後はこのEasyEDAを活用したスマートな基板設計へ移行していく予定です。
 
-※ここに至るまでの詳細なドキュメントや試行錯誤のプロセスは、[おもちゃ修理「電子カルテ」ブログ（Canpan）](https://blog.canpan.info/charts/category_17/) をぜひご覧ください！
+※ここに至るまでの詳細なドキュメントや試行錯誤のプロセスは、[おもちゃ修理「電子カルテ」ブログ（Canpan） ↗](https://blog.canpan.info/charts/category_17/) をぜひご覧ください！
 
 ---
 
 ## 📖 詳しい解説・回路図（Wikiページ）
-応用事例の詳細は [おもちゃ修理「電子カルテ」ブログ](https://blog.canpan.info/charts/archive/497) を、
+応用事例の詳細は [おもちゃ修理「電子カルテ」ブログ ↗](https://blog.canpan.info/charts/archive/497) を、
 ファイル構成、回路図やCVDチューニングなどの詳細は専用Wikiをご参照ください。
 ### 👉 [詳しい解説・回路図（Wikiページ）](https://github.com/ToyDr-W/PUYA_orgel_NATURE/wiki/Home)
 
