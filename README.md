@@ -12,6 +12,15 @@
 - **楽しく遊べる設計**：タクトSW、CVDタッチセンス、LED点滅をサポート。
 - **省エネ・省コスト**：電力消費効率に優れた BTL=3 出力で、100均のおにぎり容器に収まる省スペース設計。
 
+ <p align="center">
+  <a href="https://youtu.be/OHc7AwMBYVM?si=gm93Tp4iBv0YjcbH">
+<img src="https://github.com/user-attachments/assets/36ef7815-7113-41d0-aee8-45531e684696" alt="251011_NATURE" width="45%">
+  <br>
+<em>▶️ YouTubeで動作確認動画を再生する ↗</em>
+  </a>
+</p>
+
+
 ### 📥 データのダウンロード方法
 最新の回路図およびプログラム一式をダウンロードするには、 リポジトリ右上にある緑色の **`[ <> Code ]`** ボタンをクリックし、メニューの一番下にある **`Download ZIP`** から一括ダウンロードできます。
 若しくは、[ここをクリックしてください。 ⬇️](https://github.com/ToyDr-W/PUYA_orgel_NATURE/archive/refs/heads/main.zip)
